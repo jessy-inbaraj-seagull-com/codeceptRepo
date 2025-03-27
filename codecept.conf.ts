@@ -3,7 +3,8 @@ exports.config = {
   helpers: {
     Playwright: {
       browser: 'chromium',
-      url: 'https://github.com',
+      // url: 'https://github.com',
+      url: 'https://org-o0innoss.account.ap1.bartendercloud.com',
       show: true
     }
   },
