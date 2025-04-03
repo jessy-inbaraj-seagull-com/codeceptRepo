@@ -22,3 +22,6 @@ When(/^I log in with valid credentials$/, function () {
 
 
 });
+Then(/^I should land on the home page$/, function () {
+
+});

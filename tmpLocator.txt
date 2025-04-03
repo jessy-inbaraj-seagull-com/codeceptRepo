@@ -1,0 +1,86 @@
+How found:	Selected from tree...
+Name:	"Desktop 1"
+ControlType:	UIA_PaneControlTypeId (0xC371)
+LocalizedControlType:	"pane"
+BoundingRectangle:	{l:0 t:0 r:2560 b:1440}
+IsEnabled:	true
+IsOffscreen:	false
+IsKeyboardFocusable:	true
+HasKeyboardFocus:	false
+ProcessId:	1652
+RuntimeId:	[2A.10010]
+FrameworkId:	"Win32"
+ClassName:	"#32769"
+NativeWindowHandle:	0x10010
+ProviderDescription:	"[pid:11292,providerId:0x10010 Annotation(parent link):Microsoft: Annotation Proxy (unmanaged:uiautomationcore.dll); Main:Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll); Hwnd:Microsoft: HWND Proxy (unmanaged:uiautomationcore.dll)]"
+IsPassword:	false
+IsDialog:	false
+LegacyIAccessible.ChildId:	0
+LegacyIAccessible.Name:	"Desktop 1"
+LegacyIAccessible.Role:	client (0xA)
+LegacyIAccessible.State:	focusable (0x100000)
+IsAnnotationPatternAvailable:	false
+IsDragPatternAvailable:	false
+IsDockPatternAvailable:	false
+IsDropTargetPatternAvailable:	false
+IsExpandCollapsePatternAvailable:	false
+IsGridItemPatternAvailable:	false
+IsGridPatternAvailable:	false
+IsInvokePatternAvailable:	false
+IsItemContainerPatternAvailable:	false
+IsLegacyIAccessiblePatternAvailable:	true
+IsMultipleViewPatternAvailable:	false
+IsObjectModelPatternAvailable:	false
+IsRangeValuePatternAvailable:	false
+IsScrollItemPatternAvailable:	false
+IsScrollPatternAvailable:	false
+IsSelectionItemPatternAvailable:	false
+IsSelectionPatternAvailable:	false
+IsSpreadsheetItemPatternAvailable:	false
+IsSpreadsheetPatternAvailable:	false
+IsStylesPatternAvailable:	false
+IsSynchronizedInputPatternAvailable:	false
+IsTableItemPatternAvailable:	false
+IsTablePatternAvailable:	false
+IsTextChildPatternAvailable:	false
+IsTextEditPatternAvailable:	false
+IsTextPatternAvailable:	false
+IsTextPattern2Available:	false
+IsTogglePatternAvailable:	false
+IsTransformPatternAvailable:	false
+IsTransform2PatternAvailable:	false
+IsValuePatternAvailable:	false
+IsVirtualizedItemPatternAvailable:	false
+IsWindowPatternAvailable:	false
+IsCustomNavigationPatternAvailable:	false
+IsSelectionPattern2Available:	false
+FirstChild:	"Inspect  (HWND: 0x001C18F0) UIAccess" window
+LastChild:	"Program Manager" pane
+Next:	[null]
+Previous:	[null]
+Other Props:	Object has no additional properties
+Children:	"Inspect  (HWND: 0x001C18F0) UIAccess" window
+	"Taskbar" pane
+	"Grammarly Anchor Window" window
+	"Grammarly Anchor Window" window
+	"Grammarly Anchor Window" window
+	"Grammarly Anchor Window" window
+	"Grammarly Anchor Window" window
+	"Grammarly Anchor Window" window
+	"Grammarly Anchor Window" window
+	"Grammarly Anchor Window" window
+	"Grammarly Anchor Window" window
+	"Grammarly Anchor Window" window
+	"Grammarly Anchor Window" window
+	"" pane
+	"codeceptRepo – steps_desktop.ts" window
+	"Appium server connection issue — Mozilla Firefox" window
+	"Chat | QA Automation Training | Seagull Scientific, Inc | jinbaraj@seagullscientific.com | Microsoft Teams" window
+	"QA Automation Training | Seagull Scientific, Inc | jinbaraj@seagullscientific.com | Microsoft Teams" window
+	"Downloads" window
+	"C:\Users\jinbaraj\codeceptRepo\utils" window
+	"C:\Users\jinbaraj\Downloads\WinAppDriverUIRecorder" window
+	"Downloads" window
+	"Releases · microsoft/WinAppDriver - Google Chrome - JESSY" pane
+	"Jessy-Win10-
+Ancestors:	[ No Parent ]
